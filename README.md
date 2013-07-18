@@ -2,20 +2,6 @@
 
 Wrapper to OptIn service.
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'opt_in'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install opt_in
-
 ## Usage
 
 ```ruby
